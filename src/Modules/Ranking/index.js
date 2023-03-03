@@ -1,4 +1,4 @@
-import React from "react";
+/*import React from "react";
 import {nanoid} from 'nanoid'
 import data from "./mock-data.json"
 
@@ -91,4 +91,4 @@ return(
   );
 };*/
 
-export default Ranking;
+//export default Ranking;
